@@ -1,0 +1,7 @@
+Evaluar tasa de reforzamiento de aceptación y rechazo de cada alternativa.
+El modelo de Charnov no se preocupa con encuentros simultáneos, sino sucesivos.
+Calcular la tasa de reforzamiento de rechazar cada uno de los eslabones terminales: ¿por qué solo interesa la del estímulo negativo? Porque es el único cuyo rechazo incrementa la tasa de reforzamiento.
+Fantino y Abarca 1985?: ¿El ITI es el equivalente al tiempo de búsqueda? Puede ser también el eslabón inicial. Sobre esto dijo Vlad que podría estar el factor que me permita decidir entre variantes del modelo.
+¿Se puede escapar de la alternativa discriminativa? Revisar en el artículo de Fortes qué se dice de eso.
+Integrar las predicciones de preferencia de estrategia y de alternativa. Elegir la estrategia especialista incrementa la tasa de reforzamiento de la alternativa discriminativa. ¿Cómo puedo integrar ambas predicciones?
+Graficar la razón entre las tasas de reforzamiento. Es más clara.

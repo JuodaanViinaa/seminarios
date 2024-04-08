@@ -1,0 +1,1 @@
+Analizar por bloques de sesiones.

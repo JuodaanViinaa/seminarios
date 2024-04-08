@@ -1,0 +1,12 @@
+¿Qué dice la literatura con respecto al efecto de los eslabones terminales en ratas en elección subóptima?
+	Puedo hacer el argumento de que el consenso indica que sí hay un efecto de los eslabones terminales. Mis datos desacreditan esa hipótesis.
+
+En cuanto a intervalos entre ensayos, hay un efecto sobre la proporción de escapes, pero no sobre la preferencia.
+
+Debo comenzar a escribir, pueden ser dos artículos o uno solo que los integre.
+
+Vale la pena formalizar mis predicciones del modelo, describirlas con precisión, y consultar a Vasconcelos.
+
+Debo leer a detalle el artículos de Fortes para encontrar cómo hicieron sentido de datos desorganizados.
+
+Temporalmente no tendré mucho por correr, así que hay que escribir.
